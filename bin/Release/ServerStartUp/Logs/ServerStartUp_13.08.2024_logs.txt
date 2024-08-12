@@ -1,0 +1,6 @@
+﻿-=-=-=-=-= Begin write Logs: 13.08.2024 1:31:50 AM =-=-=-=-=-
+[1:31:50 AM] Process tree has been loaded successfully.
+[1:31:50 AM] The process 'notepad.exe' (ID: 1) is ready.
+-=-=-=-=-= End write Logs: 13.08.2024 1:32:01 AM =-=-=-=-=-
+
+

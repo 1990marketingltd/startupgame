@@ -1,0 +1,12 @@
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\bin\Release\ServerStartUp.exe.config
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\bin\Release\ServerStartUp.exe
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\bin\Release\ServerStartUp.pdb
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.csproj.AssemblyReference.cache
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.Properties.Resources.resources
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.bor_FAbout.resources
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.bor_FMain.resources
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.bor_FSettings.resources
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.csproj.GenerateResource.cache
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.csproj.CoreCompileInputs.cache
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.exe
+C:\Users\1990MarketingHuyNguy\Desktop\ServerStartUp\obj\Release\ServerStartUp.pdb
